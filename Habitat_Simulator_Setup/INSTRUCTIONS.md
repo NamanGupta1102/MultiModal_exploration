@@ -30,3 +30,17 @@ This should output something similar to this at the end:
  640 x 480, total time 1.90 s, frame time 1.903 ms (525.5 FPS)
  ==============================================================
 ```
+
+# FAQ
+
+**1. Can we use on a later python version like 3.10 or something?**
+
+No, this is because habitat sim is only made for 3.9. I have no idea if they even plan it to do for later versions of python
+
+**2. Instead of upgrading numba and llvmlite, why don't I just downgrade numpy?**
+
+Not possible since lot of versions of numpy are not compatible with python 3.9. Remember python 3.9 is going to reach its end of support on October 2025, so its already not at actively maintained.
+
+**3. What was the issue that was faced due to numba and llvmlite versions?**
+
+`SystemError: initialization of _internal failed without raising an exception`
