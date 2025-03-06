@@ -1,0 +1,2187 @@
+Find the bin near the sink and faucet.
+Find the ashcan near the sink and faucet.
+Find the bin near the sink and faucet.
+Find the bin near the sink and faucet.
+Find the container on the chest of drawers.
+Find the ashcan near the sink and faucet.
+Find the bin near the sink and faucet.
+Find the seat near the bread and plate.
+Find the chair near the carton and bowl.
+Find the ashcan near the sink and faucet.
+Find the plant near the carton and book.
+Find the houseplant near the carton and bowl.
+Find the receiver on the stand.
+Find the set on the stand.
+Find the receiver on the stand.
+Find the container near the straight chair and book.
+Find the electronic equipment on the stand.
+Find the set on the stand.
+Find the houseplant near the book and bowl.
+Find the set on the stand.
+Find the chair near the houseplant and goggles.
+Find the straight chair near the decoration and cellular telephone.
+Find the chair near the bowl and binoculars.
+Find the seat near the bowl and binoculars.
+Find the houseplant near the lego and cellular telephone.
+Find the straight chair near the binoculars and cellular telephone.
+Find the plant near the straight chair and cellular telephone.
+Find the houseplant near the binoculars and lego.
+Find the organism near the binoculars and goggles.
+Find the seat near the binoculars and goggles.
+Find the dish near the laptop and sunglasses.
+Find the dish near the table lamp and sunglasses.
+Find the jar near the television receiver and carton.
+Find the container on the dining table.
+Find the crockery near the straight chair and laptop.
+Find the container on the dining table.
+Find the bowl on the dining table.
+Find the tableware on the dining table.
+Find the dish on the dining table.
+Find the tableware on the dining table.
+Find the straight chair near the vase and bowl.
+Find the chair near the signboard and bowl.
+Find the plant near the vase and bread.
+Find the houseplant near the tomato and potato.
+Find the straight chair near the statue and control.
+Find the chair near the dining table and control.
+Find the seat near the signboard and watch.
+Find the organism near the vase and bread.
+Find the plant near the coffee maker and knife.
+Find the organism near the vase and tomato.
+Find the atomizer near the tray and soap dispenser.
+Find the straight chair near the dining table and alarm clock.
+Find the seat near the alarm clock and videotape.
+Find the seat near the dining table and videotape.
+Find the atomizer near the soap dispenser and chalice.
+Find the chair near the dining table and videotape.
+Find the atomizer near the tray and soap dispenser.
+Find the atomizer near the tray and chalice.
+Find the seat near the alarm clock and videotape.
+Find the straight chair near the dining table and videotape.
+Find the electronic equipment on the stand.
+Find the receiver on the stand.
+Find the television receiver on the stand.
+Find the television receiver on the stand.
+Find the set on the stand.
+Find the receiver on the stand.
+Find the electronic equipment on the stand.
+Find the electronic equipment on the stand.
+Find the set on the stand.
+Find the set on the stand.
+Find the digital computer near the calendar and container.
+Find the laptop on the dining table.
+Find the portable computer on the dining table.
+Find the machine on the dining table.
+Find the personal computer on the dining table.
+Find the computer near the calendar and book.
+Find the personal computer on the dining table.
+Find the computer near the calendar and container.
+Find the computer on the dining table.
+Find the portable computer on the dining table.
+Find the instrument on the bed.
+Find the laptop near the straight chair and computer keyboard.
+Find the personal computer near the straight chair and statue.
+Find the digital computer near the candle and money.
+Find the crockery near the straight chair and statue.
+Find the measuring instrument on the bed.
+Find the personal computer near the straight chair and money.
+Find the tableware near the straight chair and mousepad.
+Find the tableware near the straight chair and carton.
+Find the alarm clock on the bed.
+Find the straight chair near the statue and cellular telephone.
+Find the jar near the houseplant and bowl.
+Find the dish near the straight chair and cup.
+Find the jar near the houseplant and statue.
+Find the chair near the statue and alarm clock.
+Find the seat near the statue and cellular telephone.
+Find the straight chair near the statue and alarm clock.
+Find the crockery near the statue and vase.
+Find the vessel near the houseplant and bowl.
+Find the jar near the bowl and cellular telephone.
+Find the seat near the plate and money.
+Find the bowl near the straight chair and money.
+Find the container on the coatrack.
+Find the crockery near the candle and money.
+Find the crockery near the straight chair and saw.
+Find the straight chair near the plate and money.
+Find the dish near the candle and money.
+Find the dish near the straight chair and candle.
+Find the seat near the bowl and money.
+Find the tableware near the straight chair and saw.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the houseplant near the toilet and atomizer.
+Find the organism near the toilet and atomizer.
+Find the organism near the toilet and atomizer.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the organism near the toilet and atomizer.
+Find the receiver on the stand.
+Find the equipment near the bowl and badge.
+Find the television receiver on the stand.
+Find the receiver on the stand.
+Find the tableware near the straight chair and calendar.
+Find the plant near the potato and card.
+Find the tableware on the stand.
+Find the organism near the vase and card.
+Find the container on the stand.
+Find the set on the stand.
+Find the vase near the straight chair and pouch.
+Find the crockery on the chest of drawers.
+Find the dish on the chest of drawers.
+Find the jar near the straight chair and duck.
+Find the tableware near the statue and cellular telephone.
+Find the receiver on the stand.
+Find the container near the control and cellular telephone.
+Find the tableware on the chest of drawers.
+Find the portable computer on the sofa.
+Find the television receiver on the stand.
+Find the dispenser on the plaything.
+Find the atomizer on the plaything.
+Find the vase on the dining table.
+Find the jar on the dining table.
+Find the jar on the dining table.
+Find the container on the plaything.
+Find the atomizer on the plaything.
+Find the container on the plaything.
+Find the vessel near the straight chair and cellular telephone.
+Find the vase on the dining table.
+Find the digital computer on the sofa.
+Find the organism near the calendar and book.
+Find the straight chair near the toaster and book.
+Find the set on the stand.
+Find the television receiver on the stand.
+Find the equipment on the stand.
+Find the personal computer on the sofa.
+Find the plant near the calendar and book.
+Find the houseplant near the calendar and book.
+Find the electronic equipment on the stand.
+Find the bowl on the dining table.
+Find the dish on the dining table.
+Find the receiver on the stand.
+Find the crockery on the dining table.
+Find the set on the stand.
+Find the tableware on the dining table.
+Find the dish on the dining table.
+Find the receiver on the stand.
+Find the crockery on the dining table.
+Find the tableware on the dining table.
+Find the computer on the bed.
+Find the personal computer on the bed.
+Find the portable computer on the bed.
+Find the digital computer on the bed.
+Find the chair near the bow and saw.
+Find the chair near the dining table and bow.
+Find the machine on the bed.
+Find the seat near the dining table and bow.
+Find the straight chair near the dining table and bow.
+Find the personal computer on the bed.
+Find the electronic equipment on the stand.
+Find the electronic equipment on the stand.
+Find the equipment on the stand.
+Find the television receiver on the stand.
+Find the houseplant near the bowl and carton.
+Find the houseplant on the dining table.
+Find the plant near the plate and carton.
+Find the plant on the dining table.
+Find the plant on the dining table.
+Find the organism on the dining table.
+Find the atomizer near the vase and cup.
+Find the computer on the coffee table.
+Find the machine on the coffee table.
+Find the personal computer on the coffee table.
+Find the laptop on the coffee table.
+Find the machine on the coffee table.
+Find the dispenser near the vase and cup.
+Find the computer on the coffee table.
+Find the machine on the coffee table.
+Find the laptop on the coffee table.
+Find the machine on the sofa.
+Find the equipment on the stand.
+Find the straight chair near the calendar and bowl.
+Find the tableware near the tennis racket and statue.
+Find the laptop on the sofa.
+Find the digital computer on the sofa.
+Find the machine on the sofa.
+Find the personal computer on the sofa.
+Find the laptop on the sofa.
+Find the straight chair near the calendar and apple.
+Find the set on the stand.
+Find the set on the stand.
+Find the television receiver on the stand.
+Find the receiver on the stand.
+Find the receiver on the stand.
+Find the container near the potato and cellular telephone.
+Find the container near the toaster and ice lolly.
+Find the television receiver on the stand.
+Find the set on the stand.
+Find the set on the stand.
+Find the atomizer near the aerosol and grenade.
+Find the crockery near the straight chair and tennis racket.
+Find the container near the straight chair and table lamp.
+Find the container near the tennis racket and table lamp.
+Find the organism near the straight chair and plate.
+Find the container near the straight chair and tennis racket.
+Find the crockery near the tennis racket and table lamp.
+Find the tableware near the tennis racket and table lamp.
+Find the container near the straight chair and table lamp.
+Find the atomizer on the stand.
+Find the television receiver on the stand.
+Find the houseplant on the chest of drawers.
+Find the plant on the chest of drawers.
+Find the organism near the book and cellular telephone.
+Find the receiver on the stand.
+Find the set on the stand.
+Find the organism near the book and cellular telephone.
+Find the television receiver on the stand.
+Find the set on the stand.
+Find the organism on the chest of drawers.
+Find the bowl on the dining table.
+Find the crockery on the dining table.
+Find the container on the dining table.
+Find the dish on the dining table.
+Find the tableware on the dining table.
+Find the bowl on the dining table.
+Find the tableware on the dining table.
+Find the dish on the dining table.
+Find the crockery on the dining table.
+Find the vessel on the dining table.
+Find the vessel near the laptop and cellular telephone.
+Find the vessel on the dining table.
+Find the vase on the dining table.
+Find the jar near the laptop and cellular telephone.
+Find the container near the laptop and oil lamp.
+Find the vessel on the dining table.
+Find the jar near the laptop and bowl.
+Find the seat near the book and cellular telephone.
+Find the vessel on the dining table.
+Find the organism on the dining table.
+Find the plant on the dining table.
+Find the organism on the dining table.
+Find the houseplant near the straight chair and table lamp.
+Find the organism near the straight chair and table lamp.
+Find the organism on the dining table.
+Find the plant near the straight chair and table lamp.
+Find the houseplant on the dining table.
+Find the houseplant on the dining table.
+Find the organism on the dining table.
+Find the digital computer near the sunglasses and cellular telephone.
+Find the plant on the dining table.
+Find the bowl near the oil lamp and money.
+Find the crockery on the chest of drawers.
+Find the houseplant near the candle and money.
+Find the tableware on the chest of drawers.
+Find the seat near the sunglasses and cellular telephone.
+Find the chair near the laptop and sunglasses.
+Find the computer near the sunglasses and cellular telephone.
+Find the organism on the dining table.
+Find the atomizer near the microwave and coffee maker.
+Find the houseplant on the dining table.
+Find the organism on the chest of drawers.
+Find the straight chair near the bowl and plate.
+Find the vessel on the chest of drawers.
+Find the straight chair near the bowl and plate.
+Find the container near the straight chair and table lamp.
+Find the seat near the book and tomato.
+Find the straight chair near the table lamp and key.
+Find the plant near the sculpture and vase.
+Find the straight chair near the bread and bowl.
+Find the chair near the bread and bowl.
+Find the bowl near the straight chair and basketball.
+Find the seat near the book and plate.
+Find the tableware near the houseplant and pencil.
+Find the crockery near the houseplant and basketball.
+Find the organism near the bowl and plate.
+Find the container near the basketball and pencil.
+Find the houseplant on the chest of drawers.
+Find the plant near the bread and plate.
+Find the plant organ on the dining table.
+Find the apple on the dining table.
+Find the fruit on the dining table.
+Find the plant part on the dining table.
+Find the food on the dining table.
+Find the pome on the dining table.
+Find the pome on the dining table.
+Find the apple on the dining table.
+Find the plant part on the dining table.
+Find the receiver on the stand.
+Find the bin near the floor lamp and baby buggy.
+Find the ashcan near the floor lamp and baby buggy.
+Find the bin near the floor lamp and baby buggy.
+Find the ashcan near the floor lamp and baby buggy.
+Find the bin near the floor lamp and baby buggy.
+Find the ashcan near the floor lamp and baby buggy.
+Find the ashcan near the floor lamp and baby buggy.
+Find the bin near the floor lamp and baby buggy.
+Find the ashcan near the floor lamp and baby buggy.
+Find the bin near the floor lamp and baby buggy.
+Find the personal computer near the straight chair and sunglasses.
+Find the bowl near the stool and pan.
+Find the computer near the vase and figurine.
+Find the computer on the dining table.
+Find the portable computer on the dining table.
+Find the machine on the bed.
+Find the seat near the houseplant and control.
+Find the chair near the vase and sunglasses.
+Find the machine on the bed.
+Find the straight chair near the vase and sunglasses.
+Find the portable computer near the straight chair and vase.
+Find the plant near the vase and tablet.
+Find the organism near the straight chair and tablet.
+Find the vase near the straight chair and laptop.
+Find the seat near the knife and apple.
+Find the container near the record player and houseplant.
+Find the jar near the record player and plate.
+Find the jar near the houseplant and laptop.
+Find the houseplant on the stand.
+Find the container near the table lamp and flower.
+Find the portable computer on the bed.
+Find the computer on the bed.
+Find the laptop on the bed.
+Find the plant on the stand.
+Find the personal computer on the bed.
+Find the digital computer near the stand and cellular telephone.
+Find the organism on the stand.
+Find the portable computer on the bed.
+Find the organism on the dining table.
+Find the organism on the dining table.
+Find the laptop near the straight chair and carton.
+Find the chair near the bowl and stamp.
+Find the seat near the bowl and stamp.
+Find the seat near the bowl and stamp.
+Find the portable computer near the straight chair and console.
+Find the portable computer near the straight chair and console.
+Find the machine near the straight chair and carton.
+Find the organism on the dining table.
+Find the digital computer on the dining table.
+Find the straight chair near the saw and book.
+Find the alarm clock on the dining table.
+Find the laptop on the dining table.
+Find the machine on the dining table.
+Find the machine near the table lamp and control.
+Find the measuring instrument near the straight chair and book.
+Find the instrument near the straight chair and drill.
+Find the chair near the dining table and drill.
+Find the seat near the carton and alarm clock.
+Find the bin near the refrigerator and painting.
+Find the television receiver near the pillow and cigarette.
+Find the electronic equipment on the stand.
+Find the receiver near the pillow and cigarette.
+Find the set on the stand.
+Find the ashcan near the refrigerator and painting.
+Find the ashcan near the refrigerator and painting.
+Find the television receiver on the stand.
+Find the equipment on the stand.
+Find the receiver on the stand.
+Find the container on the dining table.
+Find the container near the straight chair and book.
+Find the vessel on the stand.
+Find the vessel on the stand.
+Find the vessel on the stand.
+Find the container near the straight chair and book.
+Find the container on the dining table.
+Find the container near the straight chair and book.
+Find the vessel on the stand.
+Find the vessel on the stand.
+Find the dish near the signboard and alarm clock.
+Find the straight chair near the vase and alarm clock.
+Find the set on the stand.
+Find the electronic equipment on the stand.
+Find the vessel near the signboard and bowl.
+Find the plant near the toaster and knife.
+Find the equipment on the stand.
+Find the measuring instrument near the laptop and bowl.
+Find the chair near the laptop and control.
+Find the television receiver on the stand.
+Find the jar near the apple and ham.
+Find the vase near the apple and ham.
+Find the seat near the dining table and carton.
+Find the vessel near the apple and ham.
+Find the vessel near the apple and ham.
+Find the seat near the table lamp and calculator.
+Find the seat near the laptop and calculator.
+Find the seat near the laptop and calculator.
+Find the seat near the dining table and calculator.
+Find the jar near the apple and ham.
+Find the dish near the straight chair and block.
+Find the tableware near the lamp and football.
+Find the tableware near the straight chair and lamp.
+Find the crockery near the straight chair and compass.
+Find the chair near the dining table and plate.
+Find the tableware near the lamp and compass.
+Find the straight chair near the envelope and candle.
+Find the seat near the decoration and candle.
+Find the seat near the decoration and candle.
+Find the tableware near the vase and compass.
+Find the vessel on the dining table.
+Find the bowl near the laptop and cellular telephone.
+Find the machine near the book and headset.
+Find the measuring instrument on the chest of drawers.
+Find the vessel near the straight chair and sculpture.
+Find the instrument on the bed.
+Find the container near the straight chair and microphone.
+Find the dish near the sculpture and vase.
+Find the digital computer on the dining table.
+Find the bowl near the straight chair and sculpture.
+Find the houseplant near the case and cellular telephone.
+Find the bowl on the dining table.
+Find the tableware near the notebook and atomizer.
+Find the organism near the straight chair and stamp.
+Find the crockery near the notebook and atomizer.
+Find the set on the case.
+Find the organism near the case and cellular telephone.
+Find the electronic equipment on the stand.
+Find the equipment on the stand.
+Find the houseplant near the straight chair and stamp.
+Find the furniture near the refrigerator and knife.
+Find the furnishing near the refrigerator and knife.
+Find the computer on the bed.
+Find the seat near the refrigerator and knife.
+Find the personal computer on the bed.
+Find the laptop on the bed.
+Find the furnishing near the refrigerator and knife.
+Find the machine near the plate and coin.
+Find the furnishing near the refrigerator and knife.
+Find the houseplant on the chest of drawers.
+Find the portable computer near the wheel and book.
+Find the personal computer near the wheel and book.
+Find the television receiver on the stand.
+Find the set on the stand.
+Find the equipment on the stand.
+Find the receiver on the stand.
+Find the electronic equipment near the checkerboard and vase.
+Find the laptop on the sofa.
+Find the computer on the sofa.
+Find the digital computer near the wheel and book.
+Find the television receiver on the stand.
+Find the electronic equipment on the stand.
+Find the set on the stand.
+Find the dish near the fossil and vase.
+Find the television receiver on the stand.
+Find the vase on the dining table.
+Find the equipment on the stand.
+Find the electronic equipment on the stand.
+Find the set on the stand.
+Find the personal computer on the bed.
+Find the straight chair near the statue and book.
+Find the electronic equipment near the book and cigarette.
+Find the chair near the statue and bowl.
+Find the television receiver near the pipe and alarm clock.
+Find the seat near the statue and bowl.
+Find the set near the bowl and book.
+Find the jar on the chest of drawers.
+Find the vase on the chest of drawers.
+Find the equipment near the pipe and alarm clock.
+Find the receiver near the bowl and book.
+Find the plant on the dining table.
+Find the receiver on the stand.
+Find the chair near the statue and book.
+Find the electronic equipment near the dining table and houseplant.
+Find the timepiece near the vase and carryall.
+Find the alarm clock near the vase and carryall.
+Find the instrument near the carryall and cellular telephone.
+Find the organism near the stand and table lamp.
+Find the television receiver on the stand.
+Find the set on the stand.
+Find the digital computer near the houseplant and vase.
+Find the personal computer on the dining table.
+Find the measuring instrument near the statue and ring.
+Find the portable computer on the dining table.
+Find the clock on the dining table.
+Find the timepiece near the straight chair and ring.
+Find the toilet near the fire extinguisher and aerosol.
+Find the alarm clock near the statue and ring.
+Find the laptop on the straight chair.
+Find the clock on the dining table.
+Find the crockery on the dining table.
+Find the fixture near the bow and dispenser.
+Find the tableware near the houseplant and trading card.
+Find the computer near the pillow and notebook.
+Find the plant near the straight chair and trading card.
+Find the crockery on the dining table.
+Find the machine near the pillow and notebook.
+Find the toilet near the bow and dispenser.
+Find the crockery on the dining table.
+Find the digital computer near the pillow and notebook.
+Find the atomizer near the soap dispenser and tomato.
+Find the container near the cane and book.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the atomizer near the tomato and cup.
+Find the container on the dining table.
+Find the plant near the straight chair and cane.
+Find the atomizer near the soap dispenser and cup.
+Find the houseplant near the straight chair and cane.
+Find the bowl on the chest of drawers.
+Find the crockery near the chain and pot.
+Find the tableware on the chest of drawers.
+Find the crockery near the chain and pot.
+Find the tableware on the chest of drawers.
+Find the dish on the chest of drawers.
+Find the dish near the houseplant and walkie-talkie.
+Find the dish near the chain and pot.
+Find the tableware near the flower and walkie-talkie.
+Find the bowl near the chain and pot.
+Find the dispenser on the stand.
+Find the atomizer on the stand.
+Find the seat near the dining table and cellular telephone.
+Find the atomizer near the cup and bottle.
+Find the bowl on the dining table.
+Find the dispenser on the stand.
+Find the chair near the dining table and tablet.
+Find the vase near the straight chair and tablet.
+Find the dispenser on the stand.
+Find the tableware near the straight chair and trading card.
+Find the furnishing near the aquarium and chest.
+Find the laptop on the bed.
+Find the personal computer on the bed.
+Find the digital computer near the aquarium and envelope.
+Find the furniture near the aquarium and chest.
+Find the computer on the bed.
+Find the laptop on the bed.
+Find the machine on the bed.
+Find the personal computer on the bed.
+Find the portable computer on the bed.
+Find the plant on the dining table.
+Find the houseplant on the dining table.
+Find the plant on the dining table.
+Find the plant on the dining table.
+Find the houseplant near the straight chair and statue.
+Find the seat near the dining table and book.
+Find the seat near the dining table and houseplant.
+Find the organism near the straight chair and book.
+Find the organism on the dining table.
+Find the seat near the rule and book.
+Find the alarm clock on the bed.
+Find the crockery near the straight chair and lettuce.
+Find the container near the plate and lettuce.
+Find the bowl near the straight chair and pop.
+Find the container near the straight chair and plate.
+Find the tableware near the straight chair and candlestick.
+Find the crockery near the statue and lettuce.
+Find the dish near the statue and lettuce.
+Find the tableware near the statue and vase.
+Find the crockery near the statue and plate.
+Find the crockery near the straight chair and lettuce.
+Find the vessel near the carton and envelope.
+Find the vase near the carton and envelope.
+Find the vessel near the carton and envelope.
+Find the houseplant on the chest of drawers.
+Find the vase near the carton and envelope.
+Find the jar near the carton and envelope.
+Find the houseplant on the chest of drawers.
+Find the organism on the chest of drawers.
+Find the plant on the chest of drawers.
+Find the organism on the chest of drawers.
+Find the timepiece near the vase and earphone.
+Find the seat near the plate and trading card.
+Find the atomizer near the knife and bread.
+Find the bowl near the canister and book.
+Find the dispenser near the knife and bread.
+Find the atomizer near the knife and bread.
+Find the bowl near the canister and book.
+Find the alarm clock near the vase and earphone.
+Find the straight chair near the knife and trading card.
+Find the straight chair near the knife and trading card.
+Find the furniture near the refrigerator and aerosol.
+Find the container near the straight chair and headset.
+Find the crockery near the console and vase.
+Find the dish near the console and tablet.
+Find the chair near the refrigerator and statue.
+Find the vessel near the bowl and tablet.
+Find the seat near the refrigerator and pencil.
+Find the straight chair near the dining table and refrigerator.
+Find the plant near the book and book.
+Find the television receiver on the stand.
+Find the straight chair near the pan and ladle.
+Find the seat near the ladle and bowl.
+Find the houseplant near the joystick and trading card.
+Find the vase on the chest of drawers.
+Find the machine on the bed.
+Find the dish near the sculpture and houseplant.
+Find the laptop on the bed.
+Find the chair near the ladle and cup.
+Find the computer on the dining table.
+Find the bowl near the straight chair and mousepad.
+Find the container on the plate.
+Find the laptop near the straight chair and plate.
+Find the crockery near the straight chair and laptop.
+Find the machine on the dining table.
+Find the seat near the laptop and pliers.
+Find the digital computer on the dining table.
+Find the chair near the pillow and book.
+Find the seat near the pillow and book.
+Find the plant near the straight chair and notebook.
+Find the straight chair near the houseplant and table lamp.
+Find the electronic equipment on the stand.
+Find the straight chair near the houseplant and table lamp.
+Find the plant on the chest of drawers.
+Find the receiver on the stand.
+Find the seat near the statue and saw.
+Find the chair near the dining table and saw.
+Find the receiver on the stand.
+Find the equipment on the stand.
+Find the bowl on the dining table.
+Find the vase near the table lamp and drum.
+Find the vessel near the straight chair and envelope.
+Find the seat near the cactus and cellular telephone.
+Find the vase near the cactus and envelope.
+Find the crockery on the dining table.
+Find the chair near the cactus and cellular telephone.
+Find the machine on the sofa.
+Find the tableware on the stand.
+Find the tableware near the statue and record player.
+Find the portable computer on the chest of drawers.
+Find the digital computer on the chest of drawers.
+Find the personal computer on the chest of drawers.
+Find the machine on the straight chair.
+Find the computer on the chest of drawers.
+Find the equipment near the spectacles and tube.
+Find the container near the straight chair and ax.
+Find the laptop on the chest of drawers.
+Find the receiver near the spectacles and tube.
+Find the television receiver near the spectacles and tube.
+Find the chair near the statue and camera lens.
+Find the personal computer on the dining table.
+Find the television receiver near the signboard and statue.
+Find the computer near the houseplant and cellular telephone.
+Find the furnishing near the television receiver and camera lens.
+Find the electronic equipment near the book and disk drive.
+Find the instrument on the chest of drawers.
+Find the houseplant near the straight chair and carton.
+Find the straight chair near the statue and camera lens.
+Find the digital computer on the dining table.
+Find the atomizer near the statue and knife.
+Find the atomizer near the statue and knife.
+Find the bowl on the chest of drawers.
+Find the crockery on the chest of drawers.
+Find the dish near the painting and key.
+Find the bowl near the cup and soap dispenser.
+Find the atomizer near the pan and knife.
+Find the atomizer near the statue and knife.
+Find the bowl near the cup and soap dispenser.
+Find the atomizer near the pan and statue.
+Find the dish near the book and vase.
+Find the bowl near the bag and book.
+Find the tableware near the bag and vase.
+Find the dish on the dining table.
+Find the crockery near the table lamp and book.
+Find the bowl near the book and vase.
+Find the tableware on the dining table.
+Find the tableware near the table lamp and vase.
+Find the organism near the stand and alarm clock.
+Find the dish near the bag and book.
+Find the portable computer on the chest of drawers.
+Find the container on the desk.
+Find the computer near the dining table and straight chair.
+Find the machine on the chest of drawers.
+Find the digital computer on the chest of drawers.
+Find the personal computer on the chest of drawers.
+Find the container on the desk.
+Find the personal computer on the chest of drawers.
+Find the container on the desk.
+Find the digital computer on the chest of drawers.
+Find the equipment on the stand.
+Find the equipment on the stand.
+Find the container on the chest of drawers.
+Find the container on the chest of drawers.
+Find the equipment on the stand.
+Find the equipment on the stand.
+Find the equipment on the stand.
+Find the equipment on the stand.
+Find the equipment on the stand.
+Find the receiver on the stand.
+Find the set on the stand.
+Find the set on the stand.
+Find the television receiver on the stand.
+Find the receiver on the stand.
+Find the receiver on the stand.
+Find the television receiver on the stand.
+Find the set on the stand.
+Find the television receiver on the stand.
+Find the receiver on the stand.
+Find the houseplant near the figurine and vase.
+Find the alarm clock on the bed.
+Find the jar on the dining table.
+Find the bowl near the houseplant and figurine.
+Find the clock on the bed.
+Find the crockery near the houseplant and figurine.
+Find the dish near the houseplant and figurine.
+Find the organism near the straight chair and bowl.
+Find the vessel near the houseplant and bowl.
+Find the vessel on the desk.
+Find the portable computer on the chest of drawers.
+Find the electronic equipment on the stand.
+Find the personal computer on the chest of drawers.
+Find the machine on the chest of drawers.
+Find the chair near the dining table and laptop.
+Find the chair near the dining table and laptop.
+Find the computer on the chest of drawers.
+Find the chair near the laptop and bowl.
+Find the portable computer on the chest of drawers.
+Find the laptop on the chest of drawers.
+Find the seat near the lid and lettuce.
+Find the seat near the book and cup.
+Find the seat near the houseplant and statue.
+Find the seat near the statue and lettuce.
+Find the seat near the dining table and pie.
+Find the seat near the houseplant and statue.
+Find the seat near the statue and bowl.
+Find the seat near the pie and book.
+Find the seat near the lettuce and apple.
+Find the seat near the pie and book.
+Find the bowl near the straight chair and pot.
+Find the plant near the soap dispenser and tomato.
+Find the organism on the dining table.
+Find the plant on the dining table.
+Find the chair near the atomizer and cup.
+Find the tableware near the crowbar and cellular telephone.
+Find the chair near the pot and atomizer.
+Find the plant on the dining table.
+Find the tableware near the pot and sculpture.
+Find the dish near the book and carton.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container near the bracelet and disk drive.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the personal computer on the sofa.
+Find the television receiver near the statue and tube.
+Find the houseplant near the table lamp and bowl.
+Find the machine on the sofa.
+Find the laptop on the sofa.
+Find the electronic equipment near the statue and tube.
+Find the chair near the houseplant and vase.
+Find the receiver near the carton and tube.
+Find the electronic equipment near the carton and statue.
+Find the electronic equipment near the statue and tube.
+Find the television receiver on the stand.
+Find the electronic equipment on the stand.
+Find the television receiver on the stand.
+Find the equipment on the stand.
+Find the seat near the statue and tomato.
+Find the set on the stand.
+Find the receiver on the stand.
+Find the receiver on the stand.
+Find the seat near the statue and plate.
+Find the electronic equipment on the stand.
+Find the machine on the sofa.
+Find the container on the chest of drawers.
+Find the seat near the statue and case.
+Find the jar on the chest of drawers.
+Find the vase near the houseplant and signboard.
+Find the vessel on the chest of drawers.
+Find the dish on the kitchen table.
+Find the crockery on the kitchen table.
+Find the tableware near the straight chair and light.
+Find the bowl near the statue and book.
+Find the vase on the dining table.
+Find the toilet near the tank and candle.
+Find the chair near the dining table and vase.
+Find the organism near the desk and book.
+Find the vessel on the dining table.
+Find the vase on the dining table.
+Find the seat near the dining table and vase.
+Find the vase on the dining table.
+Find the houseplant near the desk and book.
+Find the straight chair near the vase and candle.
+Find the set on the stand.
+Find the electronic equipment on the stand.
+Find the furniture on the plate.
+Find the equipment on the stand.
+Find the straight chair on the plate.
+Find the seat on the plate.
+Find the receiver on the stand.
+Find the furnishing on the plate.
+Find the chair on the plate.
+Find the television receiver on the stand.
+Find the receiver near the statue and mug.
+Find the straight chair near the dining table and statue.
+Find the electronic equipment near the statue and mug.
+Find the electronic equipment near the statue and mug.
+Find the receiver near the statue and mug.
+Find the electronic equipment near the statue and mug.
+Find the straight chair near the statue and bowl.
+Find the seat near the statue and book.
+Find the seat near the dining table and statue.
+Find the chair near the statue and plate.
+Find the set on the stand.
+Find the chair near the plate and pouch.
+Find the equipment on the stand.
+Find the set on the stand.
+Find the crockery on the dining table.
+Find the chair near the statue and vase.
+Find the dish near the soap dispenser and apple.
+Find the equipment on the stand.
+Find the television receiver on the stand.
+Find the receiver on the stand.
+Find the set on the stand.
+Find the instrument on the bed.
+Find the receiver on the stand.
+Find the measuring instrument on the bed.
+Find the television receiver on the stand.
+Find the electronic equipment on the stand.
+Find the timepiece on the bed.
+Find the alarm clock on the bed.
+Find the equipment on the stand.
+Find the organism near the straight chair and disk drive.
+Find the bowl near the straight chair and candlestick.
+Find the dish near the straight chair and candlestick.
+Find the crockery near the straight chair and candlestick.
+Find the container near the straight chair and candlestick.
+Find the straight chair near the statue and plate.
+Find the seat near the statue and bowl.
+Find the chair near the statue and bowl.
+Find the vessel near the straight chair and book.
+Find the bowl near the straight chair and candlestick.
+Find the chair near the sculpture and bowl.
+Find the laptop on the bed.
+Find the equipment on the stand.
+Find the digital computer on the bed.
+Find the houseplant on the chest of drawers.
+Find the set near the decoration and candle.
+Find the receiver on the stand.
+Find the computer on the bed.
+Find the set on the stand.
+Find the portable computer near the pillow and cellular telephone.
+Find the set on the stand.
+Find the tableware on the straight chair.
+Find the timepiece near the laptop and handsaw.
+Find the alarm clock on the straight chair.
+Find the dish near the straight chair and handsaw.
+Find the atomizer on the cabinet.
+Find the receiver on the stand.
+Find the dispenser on the cabinet.
+Find the bowl near the straight chair and handsaw.
+Find the electronic equipment on the stand.
+Find the machine near the bowl and alarm clock.
+Find the atomizer near the pan and spectacles.
+Find the container near the faucet and medicine.
+Find the atomizer near the soap dispenser and teacup.
+Find the seat near the sunglasses and bowl.
+Find the crockery near the straight chair and vase.
+Find the plumbing fixture near the candlestick and aerosol.
+Find the chair near the dining table and sunglasses.
+Find the plumbing fixture near the candlestick and aerosol.
+Find the equipment on the stand.
+Find the set near the statue and candle.
+Find the television receiver near the dining table and rule.
+Find the bowl near the straight chair and vase.
+Find the electronic equipment on the stand.
+Find the television receiver near the bowl and vase.
+Find the set near the alarm clock and vase.
+Find the digital computer on the dining table.
+Find the television receiver on the bag.
+Find the portable computer on the dining table.
+Find the digital computer on the dining table.
+Find the computer on the dining table.
+Find the straight chair near the dining table and spectacles.
+Find the portable computer on the dining table.
+Find the seat near the dining table and spectacles.
+Find the houseplant near the pan and vase.
+Find the organism near the coffee maker and pan.
+Find the organism on the plate.
+Find the plant near the coffee maker and pan.
+Find the plant on the plate.
+Find the plant on the plate.
+Find the plant on the plate.
+Find the bin near the stand and statue.
+Find the ashcan near the television receiver and statue.
+Find the bowl on the console table.
+Find the ashcan near the television receiver and statue.
+Find the container on the console table.
+Find the bowl on the console table.
+Find the bin near the stand and statue.
+Find the dish on the console table.
+Find the dish on the console table.
+Find the container on the console table.
+Find the straight chair near the dining table and handsaw.
+Find the television receiver on the stand.
+Find the set on the stand.
+Find the dish near the statue and plate.
+Find the personal computer on the sofa.
+Find the electronic equipment on the stand.
+Find the bowl near the bust and plate.
+Find the bowl near the statue and plate.
+Find the dish on the dining table.
+Find the receiver on the stand.
+Find the timepiece on the chest of drawers.
+Find the plant near the straight chair and clam.
+Find the tableware near the straight chair and canister.
+Find the equipment on the stand.
+Find the bowl near the straight chair and canister.
+Find the clock on the chest of drawers.
+Find the alarm clock on the chest of drawers.
+Find the receiver near the remote control and cellular telephone.
+Find the electronic equipment on the stand.
+Find the houseplant on the straight chair.
+Find the digital computer on the bed.
+Find the bin near the sink and faucet.
+Find the furnishing near the television receiver and laptop.
+Find the bin near the sink and faucet.
+Find the ashcan near the sink and faucet.
+Find the laptop on the bed.
+Find the straight chair near the plate and bowl.
+Find the bin near the sink and faucet.
+Find the personal computer on the bed.
+Find the furniture near the television receiver and cassette.
+Find the measuring instrument near the tennis racket and arrow.
+Find the alarm clock near the arrow and cellular telephone.
+Find the clock near the tennis racket and carton.
+Find the timepiece near the arrow and cellular telephone.
+Find the portable computer on the bed.
+Find the clock near the arrow and cellular telephone.
+Find the receiver on the stand.
+Find the television receiver on the stand.
+Find the instrument near the tennis racket and carton.
+Find the digital computer on the bed.
+Find the organism on the dining table.
+Find the digital computer on the dining table.
+Find the computer on the dining table.
+Find the machine on the dining table.
+Find the portable computer near the decoration and plate.
+Find the personal computer near the painting and plate.
+Find the vase on the chest of drawers.
+Find the computer near the painting and decoration.
+Find the computer near the painting and plate.
+Find the plant near the straight chair and apple.
+Find the personal computer on the bed.
+Find the portable computer near the tennis racket and carton.
+Find the digital computer near the tennis racket and carton.
+Find the computer near the tennis racket and carton.
+Find the machine on the bed.
+Find the laptop near the pillow and tennis racket.
+Find the computer near the pillow and tennis racket.
+Find the machine on the bed.
+Find the machine near the tennis racket and carton.
+Find the laptop near the pillow and tennis racket.
+Find the bowl near the straight chair and cellular telephone.
+Find the container near the straight chair and book.
+Find the tableware near the table lamp and cellular telephone.
+Find the dish near the straight chair and table lamp.
+Find the crockery near the book and table lamp.
+Find the plant on the cabinet.
+Find the crockery near the book and cellular telephone.
+Find the dish near the straight chair and table lamp.
+Find the organism on the cabinet.
+Find the bowl near the straight chair and book.
+Find the straight chair near the sculpture and telephone.
+Find the equipment on the stand.
+Find the houseplant near the drum and book.
+Find the vessel near the straight chair and cellular telephone.
+Find the organism near the drum and book.
+Find the television receiver on the stand.
+Find the jar on the dining table.
+Find the set on the stand.
+Find the plant on the chest of drawers.
+Find the seat near the book and bowl.
+Find the container on the dining table.
+Find the container near the straight chair and spectacles.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the set near the dining table and table lamp.
+Find the television receiver near the dining table and table lamp.
+Find the ashcan near the toilet and faucet.
+Find the dispenser near the statue and spatula.
+Find the dispenser near the statue and tomato.
+Find the instrument near the bowl and videotape.
+Find the plant on the dining table.
+Find the crockery near the soap dispenser and potato.
+Find the tableware near the laptop and envelope.
+Find the container on the chest of drawers.
+Find the organism near the straight chair and statue.
+Find the dish near the bread and spectacles.
+Find the alarm clock near the bowl and videotape.
+Find the houseplant near the statue and vase.
+Find the bowl on the chest of drawers.
+Find the tableware near the soap dispenser and doughnut.
+Find the dish on the dining table.
+Find the crockery near the soap dispenser and apple.
+Find the crockery near the soap dispenser and doughnut.
+Find the dish near the soap dispenser and apple.
+Find the seat near the book and doughnut.
+Find the bowl on the dining table.
+Find the seat near the paper and doughnut.
+Find the bowl on the dining table.
+Find the crockery near the soap dispenser and doughnut.
+Find the portable computer on the sofa.
+Find the equipment on the stand.
+Find the laptop on the sofa.
+Find the bowl near the atomizer and potato.
+Find the crockery near the checkerboard and plate.
+Find the container near the straight chair and checkerboard.
+Find the seat near the book and atomizer.
+Find the straight chair near the plate and atomizer.
+Find the dish near the straight chair and checkerboard.
+Find the digital computer near the pillow and router.
+Find the portable computer on the sofa.
+Find the personal computer near the pillow and router.
+Find the laptop near the pillow and router.
+Find the set on the stand.
+Find the electronic equipment on the stand.
+Find the receiver on the stand.
+Find the straight chair near the table lamp and bowl.
+Find the dish near the straight chair and plate.
+Find the chair near the table lamp and bowl.
+Find the seat near the table lamp and bowl.
+Find the bowl on the dining table.
+Find the equipment on the stand.
+Find the television receiver on the stand.
+Find the instrument on the armchair.
+Find the clock near the floor lamp and key.
+Find the timepiece on the armchair.
+Find the measuring instrument near the floor lamp and game.
+Find the clock on the armchair.
+Find the straight chair near the dining table and carton.
+Find the chair near the ax and carton.
+Find the television receiver near the bowl and card.
+Find the tableware near the straight chair and ax.
+Find the alarm clock on the armchair.
+Find the vase near the straight chair and bowl.
+Find the vessel near the tennis racket and carton.
+Find the jar near the coatrack and chocolate bar.
+Find the dish near the lettuce and cup.
+Find the organism on the chest of drawers.
+Find the bowl near the pot and cup.
+Find the portable computer on the sofa.
+Find the laptop on the sofa.
+Find the jar near the tennis racket and bowl.
+Find the digital computer on the sofa.
+Find the machine on the sofa.
+Find the computer on the sofa.
+Find the laptop on the sofa.
+Find the portable computer on the sofa.
+Find the seat near the carton and container.
+Find the personal computer on the sofa.
+Find the organism near the doughnut and potato.
+Find the chair near the dining table and container.
+Find the organism near the doughnut and potato.
+Find the straight chair near the carton and container.
+Find the tableware on the dining table.
+Find the bowl on the dining table.
+Find the crockery on the dining table.
+Find the crockery near the newspaper and microphone.
+Find the container on the chest of drawers.
+Find the tableware near the newspaper and disk drive.
+Find the tableware on the dining table.
+Find the tableware on the dining table.
+Find the container on the chest of drawers.
+Find the crockery near the newspaper and disk drive.
+Find the crockery on the stand.
+Find the bowl on the stand.
+Find the dish on the stand.
+Find the tableware on the stand.
+Find the dish on the stand.
+Find the bowl on the stand.
+Find the dish on the stand.
+Find the bowl on the stand.
+Find the bowl on the stand.
+Find the crockery on the stand.
+Find the electronic equipment on the stand.
+Find the set on the stand.
+Find the equipment on the stand.
+Find the container near the houseplant and lettuce.
+Find the tableware near the bicycle and straight chair.
+Find the television receiver on the stand.
+Find the plant near the pipe and apple.
+Find the receiver on the stand.
+Find the bowl near the houseplant and pencil.
+Find the organism near the cup and apple.
+Find the timepiece near the statue and binoculars.
+Find the chair near the dining table and barrel.
+Find the alarm clock near the statue and binoculars.
+Find the personal computer near the straight chair and bowl.
+Find the portable computer near the straight chair and houseplant.
+Find the computer on the bed.
+Find the measuring instrument near the table lamp and binoculars.
+Find the plant near the straight chair and carton.
+Find the machine near the houseplant and trading card.
+Find the clock on the chest of drawers.
+Find the organism near the bowl and soap dispenser.
+Find the bowl near the teakettle and potato.
+Find the houseplant near the atomizer and potato.
+Find the dish on the chest of drawers.
+Find the set on the stand.
+Find the atomizer near the houseplant and potato.
+Find the vessel on the stand.
+Find the receiver on the stand.
+Find the plant near the statue and soap dispenser.
+Find the equipment near the painting and vase.
+Find the jar on the dining table.
+Find the equipment on the stand.
+Find the clock near the laptop and notepad.
+Find the vessel on the cabinet.
+Find the measuring instrument near the laptop and notepad.
+Find the receiver on the stand.
+Find the alarm clock on the bed.
+Find the vase on the dining table.
+Find the timepiece on the bed.
+Find the television receiver on the stand.
+Find the computer on the sofa.
+Find the electronic equipment near the dining table and box.
+Find the digital computer on the sofa.
+Find the machine on the sofa.
+Find the portable computer on the sofa.
+Find the machine on the sofa.
+Find the houseplant near the dining table and laptop.
+Find the personal computer on the sofa.
+Find the organism near the dining table and laptop.
+Find the electronic equipment on the stand.
+Find the dish near the lettuce and cup.
+Find the machine on the chest of drawers.
+Find the laptop on the chest of drawers.
+Find the container on the dining table.
+Find the personal computer near the chain and plate.
+Find the portable computer on the chest of drawers.
+Find the bowl near the lettuce and cup.
+Find the computer near the vase and gem.
+Find the houseplant on the chest of drawers.
+Find the digital computer on the chest of drawers.
+Find the machine on the sofa.
+Find the chair near the desk and table lamp.
+Find the digital computer on the sofa.
+Find the computer on the sofa.
+Find the portable computer on the sofa.
+Find the portable computer on the sofa.
+Find the personal computer on the sofa.
+Find the personal computer on the sofa.
+Find the straight chair near the desk and table lamp.
+Find the digital computer on the sofa.
+Find the digital computer on the bed.
+Find the portable computer on the bed.
+Find the digital computer on the bed.
+Find the digital computer on the bed.
+Find the container on the chest of drawers.
+Find the laptop on the bed.
+Find the personal computer on the bed.
+Find the portable computer on the bed.
+Find the machine on the bed.
+Find the personal computer on the bed.
+Find the atomizer near the bread and knife.
+Find the digital computer on the bed.
+Find the digital computer on the bed.
+Find the electronic equipment on the stand.
+Find the television receiver on the stand.
+Find the atomizer on the trunk.
+Find the portable computer on the bed.
+Find the computer on the bed.
+Find the equipment on the stand.
+Find the dispenser on the trunk.
+Find the clock on the dining table.
+Find the alarm clock on the dining table.
+Find the timepiece on the dining table.
+Find the instrument on the dining table.
+Find the measuring instrument on the dining table.
+Find the personal computer on the dining table.
+Find the measuring instrument on the dining table.
+Find the personal computer on the dining table.
+Find the clock on the dining table.
+Find the atomizer near the tool and scissors.
+Find the straight chair near the refrigerator and joystick.
+Find the straight chair near the refrigerator and dining table.
+Find the atomizer near the clutch bag and tomato.
+Find the atomizer near the clutch bag and cup.
+Find the straight chair near the refrigerator and dining table.
+Find the straight chair near the statue and bowl.
+Find the straight chair near the refrigerator and joystick.
+Find the chair near the refrigerator and bowl.
+Find the crockery near the statue and drill.
+Find the chair near the drill and bowl.
+Find the tableware near the straight chair and money.
+Find the straight chair near the dining table and money.
+Find the straight chair near the table lamp and cigarette.
+Find the straight chair near the bowl and money.
+Find the seat near the dining table and money.
+Find the container near the straight chair and money.
+Find the equipment on the stand.
+Find the receiver on the stand.
+Find the dish near the soap dispenser and apple.
+Find the straight chair near the bowl and money.
+Find the chair near the dining table and carton.
+Find the vase near the book and notepad.
+Find the chair near the dining table and carton.
+Find the set near the notebook and cellular telephone.
+Find the plant on the desk.
+Find the jar near the book and notepad.
+Find the plant on the desk.
+Find the television receiver near the notebook and cellular telephone.
+Find the vessel near the book and notepad.
+Find the vessel near the book and notepad.
+Find the seat near the book and pop.
+Find the seat near the bowl and decoration.
+Find the dish on the straight chair.
+Find the equipment on the stand.
+Find the tableware on the straight chair.
+Find the seat near the bowl and decoration.
+Find the crockery on the straight chair.
+Find the bowl on the straight chair.
+Find the chair near the bowl and decoration.
+Find the bowl on the dining table.
+Find the houseplant near the statue and laptop.
+Find the organism near the plate and walkie-talkie.
+Find the organism on the dining table.
+Find the plant near the plate and walkie-talkie.
+Find the houseplant near the statue and candle.
+Find the organism near the statue and walkie-talkie.
+Find the houseplant on the dining table.
+Find the plant on the dining table.
+Find the houseplant on the dining table.
+Find the houseplant on the dining table.
+Find the receiver on the stand.
+Find the dish on the dining table.
+Find the container on the stand.
+Find the television receiver on the stand.
+Find the electronic equipment on the stand.
+Find the equipment on the stand.
+Find the container near the earphone and apple.
+Find the dish on the dining table.
+Find the receiver on the stand.
+Find the bowl near the book and apple.
+Find the portable computer on the dining table.
+Find the machine on the dining table.
+Find the vessel near the plate and walkie-talkie.
+Find the vase near the straight chair and knife.
+Find the laptop on the dining table.
+Find the jar near the straight chair and hamburger.
+Find the digital computer on the dining table.
+Find the personal computer on the dining table.
+Find the computer on the dining table.
+Find the equipment near the bowl and control.
+Find the straight chair near the teapot and potato.
+Find the receiver on the stand.
+Find the portable computer near the cellular telephone and trading card.
+Find the machine on the dining table.
+Find the computer on the dining table.
+Find the digital computer on the dining table.
+Find the receiver near the alarm clock and cellular telephone.
+Find the chair near the statue and potato.
+Find the laptop on the dining table.
+Find the laptop on the dining table.
+Find the organism on the dining table.
+Find the plant on the dining table.
+Find the houseplant on the dining table.
+Find the crockery on the dining table.
+Find the dish on the dining table.
+Find the dish near the pot and atomizer.
+Find the crockery on the dining table.
+Find the tableware on the dining table.
+Find the plant on the dining table.
+Find the organism on the dining table.
+Find the container near the coffee maker and knife.
+Find the container near the coffee maker and hamburger.
+Find the organism near the straight chair and hamburger.
+Find the plant on the chest of drawers.
+Find the container near the coffee maker and knife.
+Find the plant on the chest of drawers.
+Find the container near the coffee maker and hamburger.
+Find the houseplant on the dining table.
+Find the houseplant near the straight chair and plate.
+Find the houseplant on the dining table.
+Find the equipment on the stand.
+Find the organism on the dining table.
+Find the crockery near the straight chair and pot.
+Find the set on the stand.
+Find the plant on the dining table.
+Find the tableware near the straight chair and pot.
+Find the television receiver on the stand.
+Find the receiver on the stand.
+Find the bowl near the houseplant and pot.
+Find the container on the chest of drawers.
+Find the laptop on the bed.
+Find the computer on the bed.
+Find the digital computer on the bed.
+Find the furnishing near the microphone and mousepad.
+Find the portable computer on the bed.
+Find the machine on the bed.
+Find the personal computer on the bed.
+Find the furniture near the microphone and mousepad.
+Find the personal computer on the bed.
+Find the seat near the microphone and mousepad.
+Find the dish on the dining table.
+Find the dish on the dining table.
+Find the dish on the dining table.
+Find the bowl near the straight chair and book.
+Find the bowl on the dining table.
+Find the dish on the dining table.
+Find the dish on the dining table.
+Find the bowl on the dining table.
+Find the bowl on the dining table.
+Find the bowl on the dining table.
+Find the crockery near the straight chair and statue.
+Find the tableware near the straight chair and vase.
+Find the dish near the straight chair and plate.
+Find the bowl near the straight chair and plate.
+Find the vase on the dining table.
+Find the dish near the bracelet and plate.
+Find the crockery near the straight chair and watch.
+Find the bowl near the straight chair and plate.
+Find the bowl near the straight chair and bracelet.
+Find the tableware near the carton and vase.
+Find the straight chair near the carton and lamp.
+Find the chair near the dining table and vase.
+Find the chair near the bowl and vase.
+Find the chair near the dining table and vase.
+Find the seat near the carton and paper.
+Find the seat near the carton and paper.
+Find the seat near the lamp and bowl.
+Find the straight chair near the bowl and vase.
+Find the seat near the carton and vase.
+Find the chair near the paper and vase.
+Find the electronic equipment on the stand.
+Find the plant on the dining table.
+Find the electronic equipment on the stand.
+Find the receiver on the stand.
+Find the seat near the stand and television receiver.
+Find the set on the stand.
+Find the equipment on the stand.
+Find the equipment on the stand.
+Find the electronic equipment on the stand.
+Find the electronic equipment on the stand.
+Find the vase on the dining table.
+Find the jar near the straight chair and magazine.
+Find the vessel on the stand.
+Find the plant near the stand and television receiver.
+Find the vase on the dining table.
+Find the houseplant near the stand and television receiver.
+Find the jar on the dining table.
+Find the organism near the stand and television receiver.
+Find the plant near the dining table and stand.
+Find the houseplant near the dining table and television receiver.
+Find the crockery on the chest of drawers.
+Find the seat near the duck and statue.
+Find the container on the chest of drawers.
+Find the dish on the dining table.
+Find the straight chair near the dining table and duck.
+Find the straight chair near the statue and bowl.
+Find the chair near the dining table and bowl.
+Find the container on the chest of drawers.
+Find the plant on the stand.
+Find the tableware near the duck and statue.
+Find the electronic equipment on the plate.
+Find the set on the stand.
+Find the equipment on the stand.
+Find the electronic equipment on the stand.
+Find the receiver on the stand.
+Find the equipment on the plate.
+Find the television receiver on the plate.
+Find the equipment on the stand.
+Find the electronic equipment on the plate.
+Find the electronic equipment on the plate.
+Find the measuring instrument on the chest of drawers.
+Find the instrument near the houseplant and statue.
+Find the organism near the candle and mouse.
+Find the clock on the chest of drawers.
+Find the plant near the candle and cellular telephone.
+Find the alarm clock on the chest of drawers.
+Find the chair near the houseplant and book.
+Find the houseplant near the candle and cellular telephone.
+Find the machine on the sofa.
+Find the plant near the cellular telephone and mouse.
+Find the dispenser near the plate and apple.
+Find the television receiver on the stand.
+Find the dispenser near the book and plate.
+Find the television receiver on the stand.
+Find the dispenser on the dining table.
+Find the vessel on the dining table.
+Find the television receiver on the stand.
+Find the jar on the dining table.
+Find the dispenser on the dining table.
+Find the straight chair near the book and walkie-talkie.
+Find the laptop on the dining table.
+Find the electronic equipment near the laptop and candle.
+Find the straight chair near the table lamp and bowl.
+Find the seat near the table lamp and bowl.
+Find the set near the oil lamp and candle.
+Find the dish near the laptop and wristband.
+Find the chair near the table lamp and bowl.
+Find the television receiver near the duck and oil lamp.
+Find the computer on the dining table.
+Find the machine on the dining table.
+Find the jar on the chest of drawers.
+Find the vessel near the box and plate.
+Find the seat near the dining table and cellular telephone.
+Find the bin near the toilet and aerosol.
+Find the seat near the notebook and plate.
+Find the jar near the pan and doughnut.
+Find the container on the chest of drawers.
+Find the vessel on the chest of drawers.
+Find the vessel on the chest of drawers.
+Find the container on the chest of drawers.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the electronic equipment on the stand.
+Find the bowl on the dining table.
+Find the equipment on the stand.
+Find the chair near the bowl and console.
+Find the receiver on the stand.
+Find the electronic equipment on the stand.
+Find the receiver on the stand.
+Find the container near the houseplant and statue.
+Find the dish on the dining table.
+Find the organism on the dining table.
+Find the crockery on the dining table.
+Find the bowl on the dining table.
+Find the bowl near the straight chair and houseplant.
+Find the seat near the dining table and houseplant.
+Find the organism near the statue and bowl.
+Find the straight chair near the dining table and houseplant.
+Find the chair near the houseplant and statue.
+Find the organism near the straight chair and tomato.
+Find the alarm clock near the carton and tennis racket.
+Find the timepiece near the carton and pillow.
+Find the houseplant near the paper and bowl.
+Find the receiver on the stand.
+Find the instrument on the bed.
+Find the digital computer near the block and notebook.
+Find the alarm clock near the carton and pillow.
+Find the set on the stand.
+Find the measuring instrument on the bed.
+Find the seat near the houseplant and trading card.
+Find the personal computer on the bed.
+Find the computer on the bed.
+Find the straight chair near the houseplant and ball.
+Find the machine on the bed.
+Find the digital computer on the bed.
+Find the organism near the straight chair and cup.
+Find the houseplant near the straight chair and cup.
+Find the toilet near the sink and lotion.
+Find the plant near the straight chair and hamburger.
+Find the jar on the chest of drawers.
+Find the dispenser on the dining table.
+Find the straight chair near the plate and cellular telephone.
+Find the crockery near the houseplant and first-aid kit.
+Find the computer near the table lamp and plate.
+Find the personal computer near the bowl and necklace.
+Find the atomizer on the dining table.
+Find the vase on the chest of drawers.
+Find the chair near the plate and cellular telephone.
+Find the digital computer near the candlestick and necklace.
+Find the vase on the dining table.
+Find the seat near the bag and bowl.
+Find the jar on the dining table.
+Find the jar on the dining table.
+Find the seat near the carton and alarm clock.
+Find the houseplant near the statue and cellular telephone.
+Find the vessel on the dining table.
+Find the plant on the chest of drawers.
+Find the plant on the chest of drawers.
+Find the vessel on the dining table.
+Find the television receiver near the book and tube.
+Find the set on the stand.
+Find the chair near the canteen and atomizer.
+Find the receiver on the stand.
+Find the vessel near the plate and book.
+Find the receiver on the stand.
+Find the equipment on the stand.
+Find the equipment on the stand.
+Find the vase near the plate and book.
+Find the television receiver on the stand.
+Find the seat near the book and vase.
+Find the bowl on the armchair.
+Find the dish near the pot and necklace.
+Find the electronic equipment on the stand.
+Find the receiver on the stand.
+Find the portable computer near the boomerang and cellular telephone.
+Find the vase near the book and cellular telephone.
+Find the portable computer near the pillow and cellular telephone.
+Find the jar on the chest of drawers.
+Find the portable computer near the pillow and cellular telephone.
+Find the furnishing near the painting and statue.
+Find the jar near the laptop and duck.
+Find the chair near the painting and cellular telephone.
+Find the vase near the laptop and duck.
+Find the dish near the duck and grenade.
+Find the jar near the straight chair and duck.
+Find the straight chair near the painting and statue.
+Find the seat near the painting and statue.
+Find the jar near the bowl and duck.
+Find the vase near the straight chair and bowl.
+Find the vessel near the straight chair and laptop.
+Find the jar near the laptop and statue.
+Find the vase near the duck and statue.
+Find the houseplant near the straight chair and chain.
+Find the toilet near the faucet and aerosol.
+Find the container near the houseplant and chain.
+Find the clock near the carton and pillow.
+Find the seat near the table lamp and book.
+Find the jar near the straight chair and plate.
+Find the timepiece near the carton and pillow.
+Find the organism on the dining table.
+Find the plant on the dining table.
+Find the seat near the statue and remote control.
+Find the organism on the dining table.
+Find the houseplant on the dining table.
+Find the houseplant on the dining table.
+Find the organism on the dining table.
+Find the plant on the dining table.
+Find the organism on the dining table.
+Find the straight chair near the table lamp and container.
+Find the chair near the hardback and apple.
+Find the electronic equipment on the stand.
+Find the receiver on the stand.
+Find the set on the stand.
+Find the chair near the book and apple.
+Find the equipment on the stand.
+Find the set on the stand.
+Find the set on the stand.
+Find the chair near the bowl and beverage.
+Find the television receiver on the stand.
+Find the furniture near the houseplant and book.
+Find the furnishing near the houseplant and book.
+Find the electronic equipment near the book and bowl.
+Find the furnishing near the houseplant and book.
+Find the tableware near the game and sandwich.
+Find the dish on the stand.
+Find the dish on the stand.
+Find the crockery near the pan and statue.
+Find the equipment near the book and bowl.
+Find the television receiver on the stand.
+Find the set near the chain and book.
+Find the electronic equipment near the chain and book.
+Find the electronic equipment near the chain and book.
+Find the set near the chain and book.
+Find the electronic equipment near the chain and book.
+Find the electronic equipment near the chain and book.
+Find the set near the chain and book.
+Find the receiver near the chain and book.
+Find the electronic equipment near the chain and book.
+Find the equipment near the chain and book.
+Find the dish near the straight chair and figurine.
+Find the container near the decoration and figurine.
+Find the crockery near the decoration and figurine.
+Find the bowl near the straight chair and figurine.
+Find the dish near the straight chair and figurine.
+Find the container near the straight chair and figurine.
+Find the crockery near the straight chair and decoration.
+Find the tableware near the decoration and figurine.
+Find the crockery near the decoration and figurine.
+Find the crockery near the straight chair and decoration.
+Find the atomizer near the soap dispenser and potato.
+Find the dish near the straight chair and vase.
+Find the tableware near the book and cellular telephone.
+Find the dish near the straight chair and coffee maker.
+Find the organism on the dining table.
+Find the houseplant on the dining table.
+Find the tableware near the book and cellular telephone.
+Find the crockery near the straight chair and vase.
+Find the seat near the book and rule.
+Find the tableware near the straight chair and vase.
+Find the clock on the desk.
+Find the measuring instrument on the desk.
+Find the computer on the dining table.
+Find the laptop near the straight chair and trading card.
+Find the measuring instrument on the desk.
+Find the alarm clock near the laptop and cellular telephone.
+Find the alarm clock near the laptop and book.
+Find the portable computer on the dining table.
+Find the jar near the straight chair and book.
+Find the measuring instrument on the desk.
+Find the vessel on the chest of drawers.
+Find the electronic equipment on the stand.
+Find the vessel on the chest of drawers.
+Find the television receiver on the stand.
+Find the organism on the chest of drawers.
+Find the electronic equipment on the stand.
+Find the equipment on the stand.
+Find the television receiver on the stand.
+Find the receiver on the stand.
+Find the vessel on the chest of drawers.
+Find the equipment on the stand.
+Find the receiver on the stand.
+Find the container on the chest of drawers.
+Find the tableware near the bust and duck.
+Find the electronic equipment on the stand.
+Find the vase near the soap dispenser and apple.
+Find the equipment on the stand.
+Find the vase near the soap dispenser and apple.
+Find the receiver on the stand.
+Find the receiver on the stand.
+Find the television receiver on the stand.
+Find the electronic equipment on the stand.
+Find the set on the stand.
+Find the receiver on the stand.
+Find the container on the dining table.
+Find the equipment on the stand.
+Find the equipment on the stand.
+Find the set on the stand.
+Find the equipment on the stand.
+Find the receiver on the stand.
+Find the laptop on the bench.
+Find the instrument on the bench.
+Find the alarm clock on the bench.
+Find the jar on the chest of drawers.
+Find the clock on the bench.
+Find the timepiece on the bench.
+Find the machine on the bench.
+Find the portable computer on the bench.
+Find the measuring instrument on the bench.
+Find the container near the toaster and book.
+Find the seat near the laptop and cellular telephone.
+Find the laptop on the dining table.
+Find the machine on the dining table.
+Find the digital computer near the houseplant and candle.
+Find the chair near the laptop and plate.
+Find the straight chair near the houseplant and laptop.
+Find the chair near the dining table and plate.
+Find the straight chair near the dining table and cellular telephone.
+Find the machine on the dining table.
+Find the straight chair near the canister and laptop.
+Find the crockery on the armchair.
+Find the straight chair near the table lamp and wristband.
+Find the container on the armchair.
+Find the tableware on the armchair.
+Find the jar near the glass and doughnut.
+Find the seat near the table lamp and cellular telephone.
+Find the personal computer on the dining table.
+Find the computer on the dining table.
+Find the laptop near the vase and sunglasses.
+Find the dish on the armchair.
+Find the tableware near the houseplant and pottery.
+Find the dish near the laptop and hardback.
+Find the crockery near the laptop and hardback.
+Find the bowl near the houseplant and statue.
+Find the plant on the chest of drawers.
+Find the houseplant near the bread and statue.
+Find the bowl near the houseplant and statue.
+Find the bowl near the houseplant and pottery.
+Find the container near the laptop and pottery.
+Find the tableware near the statue and hardback.
+Find the alarm clock near the gem and book.
+Find the timepiece near the gem and book.
+Find the instrument near the gem and book.
+Find the measuring instrument on the chest of drawers.
+Find the bowl near the straight chair and alarm clock.
+Find the clock on the chest of drawers.
+Find the dish near the straight chair and alarm clock.
+Find the crockery near the straight chair and alarm clock.
+Find the tableware near the straight chair and alarm clock.
+Find the bowl near the straight chair and alarm clock.
+Find the chair near the plate and cellular telephone.
+Find the plant on the dining table.
+Find the straight chair near the plate and cellular telephone.
+Find the plant near the table lamp and plate.
+Find the chair near the plate and cellular telephone.
+Find the television receiver near the dining table and pot.
+Find the seat near the houseplant and cellular telephone.
+Find the equipment near the dining table and pot.
+Find the set on the stand.
+Find the television receiver near the dining table and pot.
+Find the equipment near the plate and candle.
+Find the television receiver near the table lamp and plate.
+Find the electronic equipment near the table lamp and plate.
+Find the set near the plate and candle.
+Find the electronic equipment near the table lamp and book.
+Find the equipment near the table lamp and book.
+Find the electronic equipment near the table lamp and book.
+Find the television receiver near the book and candle.
+Find the receiver near the table lamp and candle.
+Find the set near the book and candle.
+Find the alarm clock on the bench.
+Find the clock on the bench.
+Find the container near the magazine and figurine.
+Find the jar on the dining table.
+Find the dish near the coffee maker and potato.
+Find the jar near the pot and statue.
+Find the plant near the table lamp and book.
+Find the crockery near the coffee maker and potato.
+Find the clock on the bench.
+Find the vessel near the cellular telephone and potato.
+Find the atomizer on the dining table.
+Find the jar near the straight chair and carton.
+Find the vase near the straight chair and bowl.
+Find the vessel on the dining table.
+Find the vase near the bowl and carton.
+Find the vessel near the straight chair and bowl.
+Find the jar near the bowl and carton.
+Find the organism on the dining table.
+Find the jar near the straight chair and carton.
+Find the vase on the dining table.
+Find the seat near the desk and cigarette.
+Find the chair near the statue and disk drive.
+Find the straight chair near the statue and disk drive.
+Find the seat near the cigarette and disk drive.
+Find the seat near the desk and laptop.
+Find the seat near the desk and laptop.
+Find the seat near the laptop and disk drive.
+Find the chair near the laptop and statue.
+Find the seat near the cigarette and disk drive.
+Find the container near the straight chair and drill.
+Find the digital computer on the sofa.
+Find the crockery near the straight chair and book.
+Find the crockery near the book and gem.
+Find the computer on the sofa.
+Find the digital computer on the sofa.
+Find the vase on the stand.
+Find the personal computer on the sofa.
+Find the portable computer on the sofa.
+Find the personal computer on the sofa.
+Find the dish near the straight chair and plate.
+Find the container near the straight chair and trading card.
+Find the bowl near the vase and trading card.
+Find the jar near the straight chair and plate.
+Find the crockery near the straight chair and trading card.
+Find the chair near the bowl and trading card.
+Find the vase near the plate and bowl.
+Find the straight chair near the bowl and trading card.
+Find the seat near the book and trading card.
+Find the vessel near the book and cup.
+Find the dish near the vase and trading card.
+Find the atomizer on the dining table.
+Find the chair near the bowl and tomato.
+Find the vessel near the straight chair and microphone.
+Find the vase near the straight chair and microphone.
+Find the bowl on the dining table.
+Find the receiver near the laptop and statue.
+Find the dispenser on the dining table.
+Find the dish on the dining table.
+Find the seat near the atomizer and bowl.
+Find the crockery on the dining table.
+Find the plant near the statue and console.
+Find the houseplant near the statue and cellular telephone.
+Find the organism near the bowl and cellular telephone.
+Find the houseplant near the bowl and cellular telephone.
+Find the organism near the statue and console.
+Find the plant near the statue and cellular telephone.
+Find the plant near the statue and console.
+Find the plant near the console and bowl.
+Find the organism near the console and bowl.
+Find the organism near the bowl and cellular telephone.
+Find the bowl on the dining table.
+Find the dish on the dining table.
+Find the vessel on the dining table.
+Find the jar on the dining table.
+Find the personal computer on the dining table.
+Find the computer near the chain and book.
+Find the crockery near the chain and book.
+Find the computer on the bed.
+Find the vase near the chain and book.
+Find the laptop on the bed.
+Find the tableware on the straight chair.
+Find the bowl near the dining table and floor lamp.
+Find the crockery on the straight chair.
+Find the receiver on the stand.
+Find the machine on the bed.
+Find the crockery on the straight chair.
+Find the alarm clock on the armchair.
+Find the alarm clock on the armchair.
+Find the timepiece on the armchair.
+Find the timepiece on the armchair.
+Find the atomizer near the pot and soap dispenser.
+Find the atomizer near the pot and soap dispenser.
+Find the atomizer near the pot and soap dispenser.
+Find the vessel on the plate.
+Find the portable computer near the pillow and mouse.
+Find the chair near the wallet and tomato.
+Find the digital computer on the sofa.
+Find the digital computer near the pillow and mouse.
+Find the computer near the pillow and mouse.
+Find the bowl near the lettuce and pitcher.
+Find the container near the flashlight and lighter.
+Find the container near the flashlight and lighter.
+Find the container near the flashlight and lighter.
+Find the container near the flashlight and lighter.
+Find the container near the flashlight and lighter.
+Find the container near the flashlight and lighter.
+Find the container near the flashlight and lighter.
+Find the container near the flashlight and lighter.
+Find the container near the flashlight and lighter.
+Find the container near the flashlight and lighter.
+Find the container on the straight chair.
+Find the container on the straight chair.
+Find the container near the dining table and spectacles.
+Find the container on the straight chair.
+Find the container on the straight chair.
+Find the container on the straight chair.
+Find the container near the television receiver and grenade.
+Find the container near the dining table and spectacles.
+Find the container on the straight chair.
+Find the container on the straight chair.
+Find the ball on the bed.
+Find the sports equipment on the bed.
+Find the basketball equipment near the pillow and hardback.
+Find the basketball near the pillow and hardback.
+Find the straight chair near the bowl and tomato.
+Find the plant near the knife and tomato.
+Find the digital computer near the computer game and walkie-talkie.
+Find the portable computer near the computer game and walkie-talkie.
+Find the ball on the bed.
+Find the laptop near the computer game and walkie-talkie.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the clock on the straight chair.
+Find the timepiece near the dining table and mallet.
+Find the instrument on the straight chair.
+Find the container near the straight chair and mallet.
+Find the jar on the dining table.
+Find the vessel near the straight chair and mallet.
+Find the timepiece on the straight chair.
+Find the measuring instrument on the straight chair.
+Find the equipment near the statue and gem.
+Find the timepiece on the straight chair.
+Find the digital computer on the chest of drawers.
+Find the computer on the chest of drawers.
+Find the timepiece on the chest of drawers.
+Find the alarm clock on the chest of drawers.
+Find the clock on the chest of drawers.
+Find the laptop on the chest of drawers.
+Find the portable computer on the chest of drawers.
+Find the personal computer on the chest of drawers.
+Find the measuring instrument near the calendar and houseplant.
+Find the machine on the chest of drawers.
+Find the plant near the bowl and paddle.
+Find the organism on the chest of drawers.
+Find the houseplant near the tennis racket and paddle.
+Find the vessel on the straight chair.
+Find the tableware near the houseplant and mug.
+Find the jar on the chest of drawers.
+Find the straight chair near the bowl and paddle.
+Find the dish on the dining table.
+Find the chair near the paddle and mug.
+Find the bowl on the dining table.
+Find the atomizer on the dining table.
+Find the dispenser on the dining table.
+Find the tableware near the straight chair and cellular telephone.
+Find the dispenser on the dining table.
+Find the seat near the book and circuit board.
+Find the machine on the bed.
+Find the dispenser on the dining table.
+Find the atomizer near the straight chair and statue.
+Find the seat near the statue and circuit board.
+Find the computer near the pillow and cellular telephone.
+Find the bowl on the dining table.
+Find the laptop near the pick and control.
+Find the machine near the pick and control.
+Find the computer near the pillow and control.
+Find the bowl on the dining table.
+Find the laptop near the pick and pillow.
+Find the plant on the dining table.
+Find the personal computer near the pick and pillow.
+Find the laptop near the pick and pillow.
+Find the bowl on the dining table.
+Find the vessel on the chest of drawers.
+Find the chair near the pan and plate.
+Find the jar near the book and fruit.
+Find the laptop on the sofa.
+Find the vase on the dining table.
+Find the jar on the dining table.
+Find the plant near the disk drive and trading card.
+Find the vessel near the plate and apple.
+Find the computer on the sofa.
+Find the television receiver near the block and cellular telephone.
+Find the television receiver near the houseplant and bowl.
+Find the television receiver near the bowl and vase.
+Find the tableware on the armchair.
+Find the receiver near the houseplant and vase.
+Find the plant on the stand.
+Find the set near the houseplant and bowl.
+Find the dish on the dining table.
+Find the crockery on the dining table.
+Find the set near the bowl and vase.
+Find the tableware on the armchair.
+Find the houseplant near the kettle and book.
+Find the houseplant on the dining table.
+Find the organism near the statue and plate.
+Find the chair near the cricket bat and container.
+Find the straight chair near the dining table and cricket bat.
+Find the seat near the cricket bat and bowl.
+Find the straight chair near the dining table and cricket bat.
+Find the organism near the statue and kettle.
+Find the houseplant on the dining table.
+Find the straight chair near the cricket bat and bowl.
+Find the crockery near the straight chair and vase.
+Find the tableware near the vase and block.
+Find the bowl near the lettuce and tomato.
+Find the plant on the chest of drawers.
+Find the straight chair near the carton and bowl.
+Find the tableware near the book and vase.
+Find the plant on the chest of drawers.
+Find the houseplant on the chest of drawers.
+Find the straight chair near the bowl and candle.
+Find the seat near the dining table and tomato.
+Find the dish near the doughnut and plate.
+Find the seat near the doughnut and bowl.
+Find the organism on the dining table.
+Find the bowl near the doughnut and plate.
+Find the crockery near the straight chair and plate.
+Find the straight chair near the doughnut and bowl.
+Find the houseplant near the plate and vase.
+Find the crockery near the bread and plate.
+Find the dish near the straight chair and bread.
+Find the organism on the dining table.
+Find the crockery on the dining table.
+Find the tableware on the dining table.
+Find the plant on the dining table.
+Find the organism near the straight chair and bone.
+Find the houseplant on the dining table.
+Find the organism on the dining table.
+Find the computer on the bed.
+Find the personal computer on the bed.
+Find the tableware near the coffee maker and sandwich.
+Find the crockery on the dining table.
+Find the crockery near the straight chair and pizza.
+Find the chair near the bowl and figurine.
+Find the plant on the chest of drawers.
+Find the tableware near the pan and potato.
+Find the straight chair near the bowl and figurine.
+Find the seat near the bowl and figurine.
+Find the bowl near the pan and atomizer.
+Find the organism on the chest of drawers.
+Find the dish near the telescope and atomizer.
+Find the chair near the bowl and figurine.
+Find the plant on the dining table.
+Find the organism near the key and cellular telephone.
+Find the houseplant on the dining table.
+Find the houseplant on the dining table.
+Find the plant near the key and walkie-talkie.
+Find the organism near the cellular telephone and walkie-talkie.
+Find the houseplant on the dining table.
+Find the plant near the bread and bowl.
+Find the houseplant on the dining table.
+Find the organism on the dining table.
+Find the digital computer on the sofa.
+Find the computer on the sofa.
+Find the personal computer on the sofa.
+Find the machine on the sofa.
+Find the personal computer on the sofa.
+Find the laptop on the sofa.
+Find the portable computer on the sofa.
+Find the tableware near the straight chair and backpack.
+Find the portable computer on the sofa.
+Find the crockery on the dining table.
+Find the seat near the laptop and book.
+Find the straight chair near the book and lamp.
+Find the straight chair near the carton and book.
+Find the straight chair near the carton and lamp.
+Find the houseplant near the straight chair and pot.
+Find the plant near the straight chair and pot.
+Find the seat near the carton and book.
+Find the chair near the desk and book.
+Find the houseplant near the pot and plate.
+Find the chair near the desk and book.
+Find the receiver on the stand.
+Find the equipment on the stand.
+Find the machine on the sofa.
+Find the measuring instrument on the chest of drawers.
+Find the clock on the chest of drawers.
+Find the instrument on the chest of drawers.
+Find the alarm clock on the chest of drawers.
+Find the houseplant near the straight chair and gem.
+Find the plant near the straight chair and gem.
+Find the timepiece on the chest of drawers.
+Find the equipment on the stand.
+Find the organism near the microwave and earphone.
+Find the organism near the microwave and earphone.
+Find the computer near the television receiver and stand.
+Find the laptop near the stand and key.
+Find the portable computer on the sofa.
+Find the straight chair near the dining table and earphone.
+Find the television receiver on the stand.
+Find the electronic equipment on the stand.
+Find the set near the laptop and key.
+Find the plant near the pan and pot.
+Find the straight chair near the dining table and pot.
+Find the houseplant near the straight chair and cellular telephone.
+Find the organism near the dish and block.
+Find the organism near the light and dish.
+Find the organism near the light and block.
+Find the seat near the houseplant and cellular telephone.
+Find the houseplant near the pot and cellular telephone.
+Find the plant near the straight chair and pan.
+Find the straight chair near the dining table and pan.
+Find the bowl on the chest of drawers.
+Find the bowl on the chest of drawers.
+Find the organism on the dining table.
+Find the tableware on the chest of drawers.
+Find the plant near the straight chair and control.
+Find the dish near the plate and drill.
+Find the crockery on the chest of drawers.
+Find the organism near the straight chair and control.
+Find the container on the chest of drawers.
+Find the bowl on the chest of drawers.
+Find the laptop on the armchair.
+Find the computer on the armchair.
+Find the portable computer on the armchair.
+Find the machine on the armchair.
+Find the container near the cactus and book.
+Find the personal computer on the armchair.
+Find the digital computer on the armchair.
+Find the digital computer on the armchair.
+Find the personal computer on the armchair.
+Find the container near the cactus and plate.
+Find the television receiver on the stand.
+Find the equipment on the stand.
+Find the bowl near the knife and soap dispenser.
+Find the set on the stand.
+Find the receiver on the stand.
+Find the vessel near the straight chair and statue.
+Find the tableware near the statue and book.
+Find the jar near the tomato and cup.
+Find the crockery on the dining table.
+Find the container near the laptop and statue.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the container on the dining table.
+Find the equipment near the pouch and bowl.
+Find the receiver near the pouch and bowl.
+Find the vase near the carton and cellular telephone.
+Find the set on the stand.
+Find the receiver near the pouch and bowl.
+Find the vessel on the stand.
+Find the bowl on the dining table.
+Find the vessel on the stand.
+Find the receiver on the stand.
+Find the set on the stand.
+Find the chair near the dining table and blade.
+Find the vessel near the straight chair and hardback.
+Find the portable computer on the dining table.
+Find the machine on the dining table.
+Find the seat near the pot and bowl.
+Find the vase near the book and hardback.
+Find the personal computer on the dining table.
+Find the laptop on the dining table.
+Find the jar near the straight chair and book.
+Find the houseplant on the chest of drawers.
+Find the vase on the stand.
+Find the jar on the stand.
+Find the vase on the stand.
+Find the jar on the stand.
+Find the jar on the stand.
+Find the set on the stand.
+Find the vase on the stand.
+Find the jar on the stand.
+Find the television receiver on the stand.
+Find the vessel on the stand.
+Find the straight chair near the dining table and pan.
+Find the container on the stand.
+Find the alarm clock near the table lamp and trading card.
+Find the organism near the necklace and checkerboard.
+Find the plant near the checkerboard and circuit board.
+Find the seat near the bowl and cup.
+Find the plant on the dining table.
+Find the instrument on the chest of drawers.
+Find the instrument on the chest of drawers.
+Find the organism on the dining table.
+Find the equipment near the statue and trading card.
+Find the electronic equipment on the stand.
+Find the set on the stand.
+Find the receiver near the statue and trading card.
+Find the television receiver on the stand.
+Find the set on the stand.
+Find the set near the statue and trading card.
+Find the television receiver near the statue and trading card.
+Find the receiver near the statue and trading card.
+Find the electronic equipment on the stand.
+Find the bin near the chest of drawers and soap.
+Find the personal computer on the sofa.
+Find the bin near the chest of drawers and soap.
+Find the digital computer on the sofa.
+Find the machine on the bed.
+Find the digital computer on the sofa.
+Find the ashcan near the chest of drawers and soap.
+Find the ashcan near the chest of drawers and soap.
+Find the portable computer on the sofa.
+Find the laptop on the sofa.
+Find the television receiver on the stand.
+Find the electronic equipment on the stand.
+Find the set on the stand.
+Find the receiver on the stand.
+Find the machine on the dining table.
+Find the television receiver on the stand.
+Find the personal computer on the dining table.
+Find the straight chair near the dining table and bowl.
+Find the television receiver on the stand.
+Find the chair near the dining table and bowl.
+Find the clock near the ball and cellular telephone.
+Find the alarm clock near the ball and cellular telephone.
+Find the timepiece near the statue and telephone.
+Find the tableware on the straight chair.
+Find the measuring instrument near the statue and telephone.
+Find the container near the book and card.
+Find the equipment on the stand.
+Find the television receiver on the stand.
+Find the instrument near the statue and telephone.
+Find the plant on the dining table.
+Find the houseplant near the knife and potato.
+Find the plant near the statue and potato.
+Find the organism near the knife and potato.
+Find the organism near the knife and potato.
+Find the plant near the statue and potato.
+Find the organism near the knife and potato.
+Find the houseplant near the knife and potato.
+Find the houseplant near the knife and potato.
+Find the plant near the knife and potato.
+Find the plant near the statue and knife.
+Find the television receiver on the stand.
+Find the portable computer on the armchair.
+Find the receiver on the stand.
+Find the digital computer on the armchair.
+Find the personal computer on the armchair.
+Find the receiver on the stand.
+Find the electronic equipment on the stand.
+Find the equipment on the stand.
+Find the portable computer on the armchair.
+Find the computer on the armchair.
+Find the receiver on the stand.
+Find the seat near the magazine and vase.
+Find the laptop on the dining table.
+Find the jar near the straight chair and cellular telephone.
+Find the computer near the pillow and plaything.
+Find the portable computer near the straight chair and bowl.
+Find the alarm clock on the chest of drawers.
+Find the personal computer on the dining table.
+Find the toilet near the frame and grenade.
+Find the digital computer on the dining table.
+Find the portable computer on the dining table.
+Find the digital computer on the dining table.
+Find the personal computer on the dining table.
+Find the straight chair near the mailbox and book.
+Find the personal computer on the dining table.
+Find the personal computer on the dining table.
+Find the chair on the carton.
+Find the seat on the carton.
+Find the furnishing on the carton.
+Find the vessel on the stand.
+Find the furniture on the carton.
+Find the jar near the bread and cellular telephone.
+Find the straight chair on the carton.
+Find the television receiver on the stand.
+Find the straight chair on the carton.
+Find the jar on the stand.
