@@ -1,0 +1,27 @@
+{
+    "pipeline_class": "Idefics2Pipeline",
+    "train_additional_cfg": {
+        "num_action_tokens": 128,
+        "num_actions": 4,
+        "do_image_splitting": false,
+        "freeze_original_vocab": false,
+        "freeze_vision_model": false,
+        "freeze_connector": false,
+        "torch_dtype": "bfloat16",
+        "lora_config": {
+            "init_lora_weights": "gaussian",
+            "lora_alpha": 512,
+            "lora_dropout": 0.1,
+            "modules_to_save": [
+                "lm_head",
+                "embed_tokens",
+                "vision_model",
+                "connector"
+            ],
+            "r": 256,
+            "target_modules": ".*(text_model).*(down_proj|gate_proj|up_proj|k_proj|q_proj|v_proj|o_proj).*$",
+            "use_rslora": true
+        },
+        "model_name_or_path": "/raid/idefics2-0.7b-qwen"
+    }
+}
