@@ -1,3 +1,24 @@
+Instructions from Naman How to run the files:
+Run stitch_file.py from Datasets Folder
+Activate Environment in Speciteller 
+Run python train.py --gpu_id 0 --test_data twitter
+Run python test.py --gpu_id 0 --test_data twitter_test
+
+Run extract_vague_scores.py from Datasets Folder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Domain Agnostic Real-Valued Specificity Prediction
 Code for
 Wei-Jen Ko, Greg Durrett and Junyi Jessy Li, "Domain Agnostic Real-Valued Specificity Prediction", The AAAI Conference on Artificial Intelligence (AAAI), 2019
