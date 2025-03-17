@@ -1,0 +1,3 @@
+# Downloading and reformatting Alfred Dataset
+
+The ALFRED dataset can be downloaded from [here.](https://ai2-vision-alfred.s3-us-west-2.amazonaws.com/json_2.1.0.7z) Extract the file and the dataset is arranged in a structured [format.](https://github.com/askforalfred/alfred/tree/master/data) We can then run the [extraction_file](./alfred_data_extraction.ipynb) and it will convert the huge folder-json structure into managable CSV files. The extracted files are needed to be in txt format to run it on [Speciteller]() for vague score extraction and this notebook does that too. The datasets are put up on scc. Test set files are uploaded here for reference.
